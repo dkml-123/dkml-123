@@ -8,9 +8,6 @@ Welcome to my repository! I’m a machine learning enthusiast and full stack eng
   <img height="200" src="https://skillicons.dev/icons?i=py,java,sql,r,dart,latex,html,css,swift,js,ts,pytorch,tensorflow,flutter,firebase,flask,deno,postgresql,supabase,cloudflare,docker&theme=dark&perline=4" alt="Skill Icons" />
 </picture>
 
-## 🛠️ Projects
-### Latest Project: [Rate My Rentals](https://ratemyrentsals.org)
-A SvelteKit application where users can rate and review rental properties. Built with TypeScript and utilizing several modern web development frameworks.
 
 ## 📈 Most Used Languages
 
