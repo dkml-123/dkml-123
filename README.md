@@ -5,7 +5,7 @@ Welcome to my repository! I’m a machine learning enthusiast and full stack eng
 ## 🔧 Technical Skills
 
 <picture>
-  <img height="200" src="https://skillicons.dev/icons?i=py,java,sql,r,dart,latex,html,css,swift,js,ts,pytorch,tensorflow,flutter,firebase,flask,deno,postgresql,supabase,cloudflare,docker&theme=dark&perline=4" alt="Skill Icons" />
+  <img height="200" src="https://skillicons.dev/icons?i=py,java,SQL,r,dart,latex,html,css,swift,js,ts,pytorch,tensorflow,flutter,firebase,flask,deno,postgresql,supabase,cloudflare,docker&theme=dark&perline=4" alt="Skill Icons" />
 </picture>
 
 
