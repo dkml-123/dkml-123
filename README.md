@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel! 👋 
 
-Welcome to my repository! I’m a machine learning enthusiast and full stack engineer developer about developing robust applications and leveraging data to create meaningful insights. Below is a snapshot of my technical skills and experiences.
+Welcome to my repository! I’m a machine learning enthusiast and full stack developer that is focused about developing robust applications and leveraging data to create meaningful insights. Below is a snapshot of my technical skills and experiences.
 
 ## 🔧 Technical Skills
 
