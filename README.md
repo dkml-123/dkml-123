@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-Welcome to my repository! I’m a machine/deep learning enthusiast and full stack developer that is focused on developing robust applications and leveraging data to create meaningful insights. Below is a snapshot of my technical skills and experiences. 
+Welcome to my repository! I’m a machine/deep learning enthusiast + full stack developer that is focused on developing robust applications and leveraging data to create meaningful insights. Below is a snapshot of my technical skills and experiences. 
 
 ## 🔧 Technical Skills
 
